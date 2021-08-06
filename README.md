@@ -1,8 +1,9 @@
-### Olá! Eu sou o Hailander Bastos
+### Seja bem-vindo(a) ao meu perfil !
 
-- 🔭 Sou um aspirante a desenvolvedor c# 
-- 🌱 Estudando C#, Javascript
-- ⚡ A procura de Trabalho | Trainee | Jr
+
+ - 🔭 Sou um aspirante a desenvolvedor c# 
+ - 🌱 Estudando C#, Javascript
+ - ⚡ A procura de Trabalho | Trainee | Jr
 
 
 
