@@ -3,7 +3,7 @@
 
  - 🔭 Sou um aspirante a desenvolvedor c# 
  - 🌱 Estudando C#, Javascript
- - ⚡ A procura de Trabalho | Trainee | Jr
+ - ⚡ Desenvolvedor .Net Jr na Focus Solutions
 
 
 
